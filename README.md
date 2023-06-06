@@ -40,5 +40,6 @@ Therefore, when the input size is small and the focus is on practical performanc
 
 ![sorting-algorithms](https://github.com/andreitrcv/Analysis-of-different-sorting-techniques/assets/91255059/a50a12d0-e345-46f7-bbd9-093d1ae0849f)
 
+At first glance it appears very clear the distinction between the quadratic complexity of Insertion Sort and the other algorithms.
 
-The performance analysis results demonstrate that the Optimal Tail Recursive Quick Sort algorithm consistently outperforms the other sorting algorithms in terms of efficiency and speed. This algorithm achieves the best performance across various array sizes due to its optimization that consider different behaviour in relation to input size, tail recursion elimination, pseudo-optimal pivot selection, and efficient partitioning, to achieve the best performance. 
+The performance analysis results demonstrate that the Optimal Tail Recursive Quick Sort algorithm consistently outperforms the other sorting algorithms in terms of real efficiency and speed. This algorithm achieves the best performance across various array sizes due to its optimization that consider different behaviour in relation to the input size, tail recursion elimination, pseudo-optimal pivot selection, and efficient partitioning, to achieve the best performance. 
