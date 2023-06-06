@@ -39,3 +39,6 @@ The O(N^2) complexity of Insertion Sort means that the number of comparisons and
 Therefore, when the input size is small and the focus is on practical performance rather than asymptotic complexity, Insertion Sort can be a suitable choice due to its simplicity and low overhead.
 
 ![sorting-algorithms](https://github.com/andreitrcv/Analysis-of-different-sorting-techniques/assets/91255059/a50a12d0-e345-46f7-bbd9-093d1ae0849f)
+
+
+The performance analysis results demonstrate that the Optimal Tail Recursive Quick Sort algorithm consistently outperforms the other sorting algorithms in terms of efficiency and speed. This algorithm achieves the best performance across various array sizes due to its optimization that consider different behaviour in relation to input size .
