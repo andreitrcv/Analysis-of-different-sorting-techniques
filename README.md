@@ -30,9 +30,12 @@ The following sorting algorithms are implemented in the "Algorithms.c" file:
 - Optimal Tail Recursive Quick Sort: A further optimized version of Tail Recursive Quick Sort that uses the median of three as the pivot and switchs to Insertion Sort for small subarrays.
 
 
+
+
 When the size of the input array is small, the asymptotic complexity of an algorithm becomes less significant, and the constant factors associated with the algorithm's runtime become more influential. In this context, Insertion Sort's quadratic time complexity of O(N^2) becomes less of a concern for small N.
 
 The O(N^2) complexity of Insertion Sort means that the number of comparisons and swaps grows quadratically with the size of the input array. However, when N is small, the actual number of operations performed by the algorithm is relatively low. In fact, for very small values of N, the constant factors involved in more efficient algorithms may result in higher overhead compared to Insertion Sort.
 
 Therefore, when the input size is small and the focus is on practical performance rather than asymptotic complexity, Insertion Sort can be a suitable choice due to its simplicity and low overhead.
 
+![sorting-algorithms](https://github.com/andreitrcv/Analysis-of-different-sorting-techniques/assets/91255059/a50a12d0-e345-46f7-bbd9-093d1ae0849f)
